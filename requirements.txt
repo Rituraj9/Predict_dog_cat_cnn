@@ -21,7 +21,7 @@ beautifulsoup4==4.9.0
 bitarray==0.8.3
 bkcharts==0.2
 blaze==0.11.3
-bleach==3.0.2
+bleach==3.1.4
 bokeh==1.0.2
 boto==2.49.0
 Bottleneck==1.2.1
@@ -87,7 +87,7 @@ itsdangerous==1.1.0
 jaraco.itertools==5.0.0
 jdcal==1.4
 jedi==0.13.2
-Jinja2==2.10
+Jinja2==2.10.1
 joblib==0.14.1
 Js2Py==0.70
 json5==0.9.4
@@ -128,7 +128,7 @@ nbformat==4.4.0
 networkx==2.2
 nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
 nose==1.3.7
-notebook==5.7.4
+notebook==5.7.8
 numba==0.41.0
 numexpr==2.6.8
 numpy==1.15.4
@@ -162,7 +162,6 @@ PyAudio==0.2.11
 pycodestyle==2.4.0
 pycosat==0.6.3
 pycparser==2.19
-pycrypto==2.6.1
 pycurl==7.43.0.2
 pyflakes==2.0.0
 pygame==1.9.6
@@ -189,7 +188,7 @@ pytz==2018.7
 PyWavelets==1.0.1
 pywin32==223
 pywinpty==0.5.5
-PyYAML==3.13
+PyYAML==4.2b1
 pyzmq==17.1.2
 QtAwesome==0.5.3
 qtconsole==4.4.3
@@ -229,7 +228,7 @@ sympy==1.3
 tables==3.4.4
 tblib==1.3.2
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==1.15.2
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 terminado==0.8.1
@@ -240,12 +239,12 @@ tqdm==4.28.1
 traitlets==4.3.2
 tzlocal==2.1
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.24.2
 virtualenv==20.0.21
 virtualenvwrapper-win==1.2.6
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 wikipedia==1.4.0
 win-inet-pton==1.0.1
