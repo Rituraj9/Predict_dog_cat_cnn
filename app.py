@@ -3,7 +3,6 @@ from flask import Flask,request,jsonify,render_template,url_for,send_from_direct
 import pickle
 import pandas as pd
 import tensorflow as tf
-import cv2
 from keras.preprocessing.image import ImageDataGenerator
 from keras.preprocessing import image
 
