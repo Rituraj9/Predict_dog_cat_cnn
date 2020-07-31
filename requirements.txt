@@ -240,7 +240,7 @@ tqdm==4.28.1
 traitlets==4.3.2
 tzlocal==2.1
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.24.2
 virtualenv==20.0.21
 virtualenvwrapper-win==1.2.6
 wcwidth==0.1.7
